@@ -1,0 +1,42 @@
+
+Step 0: loss =2.30145(0.0760860443115sec)
+Step 100: loss =2.27883(0.059956073761sec)
+Step 200: loss =2.23498(0.0642871856689sec)
+Step 300: loss =2.15314(0.0584030151367sec)
+Step 400: loss =1.98184(0.055713891983sec)
+Step 500: loss =1.6614(0.0565040111542sec)
+Step 600: loss =1.25631(0.0573379993439sec)
+Step 700: loss =0.937256(0.0555350780487sec)
+Step 800: loss =0.744834(0.0832991600037sec)
+Step 900: loss =0.663229(0.0620791912079sec)
+Training Data Eval:
+ Num examples: 54000 Num correct: 45073 Precision @ 1: 0.834685185185
+Validation Data Eval:
+ Num examples: 4000 Num correct: 3374 Precision @ 1: 0.8435
+Test Data Eval:
+ Num examples: 10000 Num correct: 8422 Precision @ 1: 0.8422
+Step 1000: loss =0.600407(0.0782668590546sec)
+Step 1100: loss =0.508916(0.0586757659912sec)
+Step 1200: loss =0.517588(0.0563960075378sec)
+Step 1300: loss =0.501577(0.0560600757599sec)
+Step 1400: loss =0.461616(0.058629989624sec)
+Step 1500: loss =0.406724(0.0554599761963sec)
+Step 1600: loss =0.398768(0.0556259155273sec)
+Step 1700: loss =0.41578(0.0583159923553sec)
+Step 1800: loss =0.379436(0.0606470108032sec)
+Step 1900: loss =0.334334(0.0560910701752sec)
+Training Data Eval:
+ Num examples: 54000 Num correct: 48589 Precision @ 1: 0.899796296296
+Validation Data Eval:
+ Num examples: 4000 Num correct: 3633 Precision @ 1: 0.90825
+Test Data Eval:
+ Num examples: 10000 Num correct: 9024 Precision @ 1: 0.9024
+Step 2000: loss =0.333634(0.0797669887543sec)
+Step 2100: loss =0.340554(0.0623760223389sec)
+Step 2200: loss =0.314582(0.0627770423889sec)
+Step 2300: loss =0.313901(0.0592911243439sec)
+Step 2400: loss =0.326958(0.0722839832306sec)
+Step 2500: loss =0.298603(0.0583920478821sec)
+Step 2600: loss =0.27781(0.0562841892242sec)
+Step 2700: loss =0.287902(0.189872026443sec)
+Step 2800: loss =0.300829(0.0611391067505sec)
